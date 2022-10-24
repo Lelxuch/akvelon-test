@@ -17,7 +17,6 @@
     </option>
   </component>
   <component name="ProjectId" id="2GUexcoJXDTMGc4R2zwFqU6axlq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +25,6 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -69,8 +67,7 @@
       <workItem from="1666447838522" duration="735000" />
       <workItem from="1666448588699" duration="713000" />
       <workItem from="1666518331410" duration="1575000" />
-      <workItem from="1666523061035" duration="32116000" />
-      <workItem from="1666574037252" duration="297000" />
+      <workItem from="1666523061035" duration="32452000" />
     </task>
     <servers />
   </component>
