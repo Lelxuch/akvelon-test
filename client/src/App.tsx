@@ -24,8 +24,8 @@ function App() {
           <Route path={REGISTER} element={<Register />} />
           <Route element={<PrivateRoute />}>
             <Route path={USERS} element={<Users />} />
+            <Route path={UNKNOWN} element={<NotFound />} />
           </Route>
-          <Route path={UNKNOWN} element={<NotFound />} />
         </Routes>
       </BrowserRouter>
     </div>
